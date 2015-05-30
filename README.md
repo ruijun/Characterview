@@ -1,6 +1,6 @@
 # Characterview
 
-在`https://github.com/ruijun/RoundedLetterView`上进行扩展改造。  
+在[RoundedLetterView](https://github.com/ruijun/RoundedLetterView)上进行扩展改造。  
 根据名字显示字符的View，类似Android5.0风格联系人头像
 
 V1.0
@@ -16,6 +16,6 @@ Demo截图
 ![圆形带边框](/Screenshots/screenshot3.png)  
 
 
-感谢`https://github.com/ruijun/RoundedLetterView`作者  
-后续会扩展更多功能，大家多多支持。
+感谢[RoundedLetterView](https://github.com/ruijun/RoundedLetterView)作者  
+后续会带来更多功能，大家多多支持。
 ========================================================
