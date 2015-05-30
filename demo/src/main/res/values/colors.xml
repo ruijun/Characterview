@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <color name="red_500">#e51c23</color>
+    <color name="blue_500">#5677fc</color>
     <color name="indigo_500">#3f51b5</color>
+    <color name="deep_purple_500">#673ab7</color>
     <color name="teal_500">#009688</color>
-    <color name="blue_gray_500">#607d8b</color>
+
 </resources>
