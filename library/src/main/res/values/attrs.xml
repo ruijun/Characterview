@@ -1,0 +1,15 @@
+<resources>
+    <declare-styleable name="CharacterView">
+        <attr name="titleText" format="string" />
+        <attr name="titleSize" format="dimension" />
+        <attr name="titleColor" format="color" />
+        <attr name="backgroundColorValue" format="color" />
+        <attr name="letterCount" format="integer" />
+        <attr name="type">
+            <enum name="circle" value="0" />
+            <enum name="rect" value="1" />
+        </attr>
+        <attr name="borderWidth" format="dimension" />
+        <attr name="borderColor" format="color" />
+    </declare-styleable>
+</resources>
