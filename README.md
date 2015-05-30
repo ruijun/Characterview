@@ -10,7 +10,7 @@ V1.0
 * 支持定义显示字符的数目
 
 
-Demo截图
+Demo截图  
 ![矩形](/Screenshots/screenshot1.png)  
 ![圆形](/Screenshots/screenshot2.png)  
 ![圆形带边框](/Screenshots/screenshot3.png)  
