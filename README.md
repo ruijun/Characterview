@@ -9,6 +9,13 @@ V1.0
 * 支持边框显示
 * 支持定义显示字符的数目
 
+Gradle
+========
+```groovy
+dependencies {
+   compile 'me.gujun.android.taggroup:library:1.4@aar'
+}
+```
 
 Demo截图  
 ![矩形](/Screenshots/screenshot1.png)  
