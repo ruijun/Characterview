@@ -17,6 +17,17 @@ dependencies {
 }
 ```
 
+Maven
+========
+```
+<dependency>
+    <groupId>com.github.ruijun</groupId>
+    <artifactId>characterview</artifactId>
+    <version>1.0</version>
+</dependency>
+
+```
+
 Demo截图  
 ========
 ![矩形](/Screenshots/screenshot1.png)  
