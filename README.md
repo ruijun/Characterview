@@ -13,7 +13,7 @@ Gradle
 ========
 ```groovy
 dependencies {
-   compile 'me.gujun.android.taggroup:library:1.4@aar'
+   compile 'com.github.ruijun:characterview:1.0'
 }
 ```
 
