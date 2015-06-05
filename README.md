@@ -1,5 +1,7 @@
 # Characterview
 
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.ruijun/{characterview}/badge.svg)
+
 在[RoundedLetterView](https://github.com/ruijun/RoundedLetterView)上进行扩展改造。  
 根据名字显示字符的View，类似Android5.0, Gmail风格联系人头像
 
