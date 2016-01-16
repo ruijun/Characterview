@@ -33,21 +33,21 @@ Maven
 
 JitPack
 ========
-1. Add it in your root build.gradle at the end of repositories:  
-   ```
-	allprojects {
+step1: Add it in your root build.gradle at the end of repositories:  
+```
+allprojects {
 		repositories {
 			...
 			maven { url "https://jitpack.io" }
 		}
 	}
  ```
- 2. Add the dependency  
-   ```
-	dependencies {
+step2: Add the dependency  
+```
+dependencies {
 	        compile 'com.github.ruijun:Characterview:-SNAPSHOT'
-	}
-	```
+	}	
+```
 
 Screenshot  
 ========
