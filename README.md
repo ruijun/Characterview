@@ -46,7 +46,7 @@ allprojects {
 step2: Add the dependency  
 ```
 dependencies {
-	        compile 'com.github.ruijun:Characterview:-SNAPSHOT'
+	        compile 'com.github.ruijun:Characterview:v1.0'
 	}	
 ```
 
