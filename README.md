@@ -31,12 +31,29 @@ Maven
 
 ```
 
-Demo截图  
+JitPack
+========
+1. Add it in your root build.gradle at the end of repositories:
+   ```
+	allprojects {
+		repositories {
+			...
+			maven { url "https://jitpack.io" }
+		}
+	}
+ ```
+ 2. Add the dependency
+   ```
+	dependencies {
+	        compile 'com.github.ruijun:Characterview:-SNAPSHOT'
+	}
+	```
+
+Screenshot  
 ========
 ![矩形](/Screenshots/screenshot1.png) ![圆形](/Screenshots/screenshot2.png) ![圆形带边框](/Screenshots/screenshot3.png)  
 
+Thanks 
+========
+[RoundedLetterView](https://github.com/ruijun/RoundedLetterView) 
 
-感谢[RoundedLetterView](https://github.com/ruijun/RoundedLetterView)作者  
-=====================================================
-后续会带来更多功能，大家多多支持。
-========================================================
