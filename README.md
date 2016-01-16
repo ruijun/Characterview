@@ -33,7 +33,7 @@ Maven
 
 JitPack
 ========
-1. Add it in your root build.gradle at the end of repositories:
+1. Add it in your root build.gradle at the end of repositories:  
    ```
 	allprojects {
 		repositories {
@@ -42,7 +42,7 @@ JitPack
 		}
 	}
  ```
- 2. Add the dependency
+ 2. Add the dependency  
    ```
 	dependencies {
 	        compile 'com.github.ruijun:Characterview:-SNAPSHOT'
